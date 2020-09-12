@@ -15,8 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regniblod&layout=compact&hide=html" alt="regniblod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regniblod&show_icons=true" alt="regniblod" /></p>
-
 <p align="center">
 <a href="https://twitter.com/regniblod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="regniblod" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/regniblod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="regniblod" height="30" width="30" /></a>

@@ -1,14 +1,14 @@
 <h3 align="center">👨🏻‍💻 Software engineer at MetroMarkets | 👨‍👩‍👧 Husband & Dad | 🧙🏻‍♂️ Solving problems with #golang #nodejs #php | ☕🤘 Addicted to coffee and metal</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **a game boy emulator**
+- 👯 I’m looking to collaborate on **a game boy emulator** or **a distributed Go app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/regniblod](https://github.com/regniblod)
 
-- 💬 Ask me about **PHP, Symfony, Doctrine, Node, NestJS**
+- 💬 Ask me about **PHP, Symfony, Doctrine, Node, NestJS, Javascript, Typescript**
 
-- 📫 How to reach me **regniblod@gmail.com**
+- 📫 Reach me at **regniblod@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

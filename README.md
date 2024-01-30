@@ -1,4 +1,4 @@
-<h3 align="center">👨🏻‍💻 Software engineer at MetroMarkets | 👨‍👩‍👧 Husband & Dad | 🧙🏻‍♂️ Solving problems with #golang #nodejs #php | ☕🤘 Addicted to coffee and metal</h3>
+<h3 align="center">👨🏻‍💻 Software engineer | 👨‍👩‍👧 Husband & Dad | 🧙🏻‍♂️ Solving problems with #kotlin #nodejs #php | ☕🤘 Addicted to coffee and metal</h3>
 
 - 🌱 I’m currently learning **Go**
 
@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/regniblod](https://github.com/regniblod)
 
-- 💬 Ask me about **PHP, Symfony, Doctrine, Node, NestJS, Javascript, Typescript**
+- 💬 Ask me about **Kotlin, Spring Boot, PHP, Symfony, Doctrine, Node, NestJS, Javascript, Typescript**
 
 - 📫 Reach me at **regniblod@gmail.com**
 
